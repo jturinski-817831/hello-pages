@@ -1,0 +1,17 @@
+---
+title: "my second pages"
+format: html
+---
+```{r}
+library(reactable)
+```
+
+```{r}
+reactable(iris)
+```
+```{r}
+plot(iris)
+```
+
+
+
