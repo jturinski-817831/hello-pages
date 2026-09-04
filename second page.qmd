@@ -14,4 +14,11 @@ plot(iris)
 ```
 
 
+```{r}
+reactable(iris)
+```
+```{r}
+plot(iris)
+```
+
 
